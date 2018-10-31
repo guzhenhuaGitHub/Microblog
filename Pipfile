@@ -13,6 +13,8 @@ itsdangerous = "==1.1.0"
 markupsafe = "==1.0"
 werkzeug = "==0.14.1"
 flask-wtf = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
 
 [requires]
 python_version = "3.7"
