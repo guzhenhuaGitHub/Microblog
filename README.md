@@ -2,4 +2,4 @@
 
 ---
 
-This is a demo learning python
+This is a demo for learning python
