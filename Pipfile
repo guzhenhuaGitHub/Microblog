@@ -12,6 +12,7 @@ itsdangerous = "==1.1.0"
 "jinja2" = "==2.10"
 markupsafe = "==1.0"
 werkzeug = "==0.14.1"
+flask-wtf = "*"
 
 [requires]
 python_version = "3.7"
